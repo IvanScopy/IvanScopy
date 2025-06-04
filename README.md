@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="400" height="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZzanBudmpubWpvd2U3YXVjcjd1ZW81b2plOTdsdHhyOHRxc2kybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cd7Y7tJ4pHbGM/giphy.gif" width="400" height="300"/>
 </div>
 
 <h3 align="center">🌸 Mobile Developer & Big Data Engineer 🌸</h3>
