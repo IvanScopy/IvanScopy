@@ -77,14 +77,11 @@ const ivanScopy = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanScopy&theme=tokyonight" alt="IvanScopy" />
 </div>
 
-## 🐍 Snake Game - Eating My Contributions
+## 🌸 Vintage Anime Gallery
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IvanScopy/IvanScopy/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IvanScopy/IvanScopy/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IvanScopy/IvanScopy/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://i.pinimg.com/564x/80/15/00/801500064969257144.jpg" width="300" height="400" style="margin: 10px;"/>
+  <img src="https://i.pinimg.com/564x/27/64/78/276478864618957783.jpg" width="300" height="400" style="margin: 10px;"/>
 </div>
 
 ## 🌙 Connect With Me
