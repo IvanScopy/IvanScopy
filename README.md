@@ -83,11 +83,11 @@ const ivanScopy = {
   <table>
     <tr>
       <td align="center">
-        <img src="https://via.placeholder.com/280x350/FFB6C1/FFFFFF?text=Vintage+Anime+1" width="280" height="350" alt="Vintage Anime Art 1"/>
+        <img src="https://raw.githubusercontent.com/IvanScopy/IvanScopy/main/assets/anime1.jpg" width="280" height="350" alt="Vintage Anime Art 1"/>
         <br><em>🌸 Classic Aesthetic</em>
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/280x350/E6E6FA/FFFFFF?text=Vintage+Anime+2" width="280" height="350" alt="Vintage Anime Art 2"/>
+        <img src="https://raw.githubusercontent.com/IvanScopy/IvanScopy/main/assets/anime2.jpg" width="280" height="350" alt="Vintage Anime Art 2"/>
         <br><em>🎨 Minimalist Design</em>
       </td>
     </tr>
