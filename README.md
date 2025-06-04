@@ -80,8 +80,18 @@ const ivanScopy = {
 ## 🌸 Vintage Anime Gallery
 
 <div align="center">
-  <img src="https://i.pinimg.com/564x/80/15/00/801500064969257144.jpg" width="300" height="400" style="margin: 10px;"/>
-  <img src="https://i.pinimg.com/564x/27/64/78/276478864618957783.jpg" width="300" height="400" style="margin: 10px;"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://via.placeholder.com/280x350/FFB6C1/FFFFFF?text=Vintage+Anime+1" width="280" height="350" alt="Vintage Anime Art 1"/>
+        <br><em>🌸 Classic Aesthetic</em>
+      </td>
+      <td align="center">
+        <img src="https://via.placeholder.com/280x350/E6E6FA/FFFFFF?text=Vintage+Anime+2" width="280" height="350" alt="Vintage Anime Art 2"/>
+        <br><em>🎨 Minimalist Design</em>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🌙 Connect With Me
