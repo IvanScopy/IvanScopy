@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+IvanScopy!;" />
 </h1>
@@ -11,10 +7,6 @@
 </div>
 
 <h3 align="center">🌸 Mobile Developer & Big Data Engineer 🌸</h3>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
 
 ## 🎋 About Me
 
@@ -106,7 +98,5 @@ const ivanScopy = {
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   <h3>⭐ "Code is poetry written in logic" ⭐</h3>
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
