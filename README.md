@@ -86,13 +86,6 @@ const ivanScopy = {
     alt="Vintage Anime Art 1"
     style="object-fit: cover; border: 3px solid #ff69b4; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" 
   />
-  
-  <img 
-    src="https://raw.githubusercontent.com/IvanScopy/IvanScopy/main/assets/anime2.jpg" 
-    width="280" height="350" 
-    alt="Vintage Anime Art 2"
-    style="object-fit: cover; border: 3px solid #ff69b4; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" 
-  />
 </div>
 
 
