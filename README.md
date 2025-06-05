@@ -79,19 +79,9 @@ const ivanScopy = {
 
 ## 🌸 Vintage Anime Gallery
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/IvanScopy/IvanScopy/main/assets/anime1.jpg" width="280" height="350" alt="Vintage Anime Art 1"/>
-      
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/IvanScopy/IvanScopy/main/assets/anime2.jpg" width="280" height="350" alt="Vintage Anime Art 1"/>
-      
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <img src="https://raw.githubusercontent.com/IvanScopy/IvanScopy/main/assets/anime1.jpg" width="280" height="350" alt="Vintage Anime Art 1"/>
+  <img src="https://raw.githubusercontent.com/IvanScopy/IvanScopy/main/assets/anime2.jpg" width="280" height="350" alt="Vintage Anime Art 2"/>
 </div>
 
 ## 🌙 Connect With Me
