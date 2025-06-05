@@ -87,7 +87,8 @@ const ivanScopy = {
       
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/IvanScopy/IvanScopy/main/assets/anime2.jpg" width="280" height="350" alt="Vintage Anime Art 2"/>
+        <img src="https://raw.githubusercontent.com/IvanScopy/IvanScopy/main/assets/anime2.jpg" width="280" height="350" alt="Vintage Anime Art 1"/>
+      
       </td>
     </tr>
   </table>
