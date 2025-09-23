@@ -106,3 +106,26 @@ const ivanScopy = {
 <div align="center">
   <h3>⭐ "Code is poetry written in logic" ⭐</h3>
 </div>
+
+<!-- Activity graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=IvanScopy&theme=github-compact&bg_color=0d1117&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=IvanScopy&theme=github-compact&hide_border=true">
+  <img alt="IvanScopy activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=IvanScopy&theme=github-compact&hide_border=true" />
+</picture>
+
+<!-- Stats cards -->
+<div align="center">
+  
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=IvanScopy&show_icons=true&rank_icon=github&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanScopy&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <img height="150" src="https://streak-stats.demolab.com?user=IvanScopy&theme=radical&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+<!-- Optional: Profile summary card -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanScopy&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanScopy&theme=github">
+  <img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanScopy&theme=github" />
+</picture>
